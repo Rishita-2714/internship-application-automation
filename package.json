@@ -1,0 +1,17 @@
+{
+  "name": "internshala",
+  "version": "1.0.0",
+  "description": "An Internshala project",
+  "main": "data.js",
+  "scripts": {
+    "start": "node data.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishita Kumari",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^23.11.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}

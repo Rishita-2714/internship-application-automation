@@ -1,0 +1,271 @@
+{
+  "inputs": [
+    {
+      "type": "checkbox",
+      "id": "matching_preference_mobile",
+      "class": "",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "checkbox",
+      "id": "work_from_home_mobile",
+      "class": "",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "checkbox",
+      "id": "part_time_mobile",
+      "class": "",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "text",
+      "id": "",
+      "class": "chosen-search-input default",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "hidden",
+      "id": "start_date_mobile",
+      "class": "form-control option",
+      "placeholder": "Choose date",
+      "visible": false
+    },
+    {
+      "type": "text",
+      "id": "",
+      "class": "chosen-search-input default",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "checkbox",
+      "id": "ppo_mobile",
+      "class": "",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "checkbox",
+      "id": "fast_response_input_mobile",
+      "class": "",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "checkbox",
+      "id": "early_applicant_input_mobile",
+      "class": "",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "checkbox",
+      "id": "internships_for_women_input_mobile",
+      "class": "",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "text",
+      "id": "keywords_mobile",
+      "class": "form-control pop-mobile",
+      "placeholder": "e.g. Design, Mumbai, Infosys",
+      "visible": false
+    },
+    {
+      "type": "checkbox",
+      "id": "matching_preference",
+      "class": "",
+      "placeholder": "",
+      "visible": true
+    },
+    {
+      "type": "text",
+      "id": "",
+      "class": "chosen-search-input default",
+      "placeholder": "",
+      "visible": true
+    },
+    {
+      "type": "text",
+      "id": "",
+      "class": "chosen-search-input default",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "text",
+      "id": "",
+      "class": "chosen-search-input default",
+      "placeholder": "",
+      "visible": true
+    },
+    {
+      "type": "text",
+      "id": "",
+      "class": "chosen-search-input default",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "checkbox",
+      "id": "work_from_home",
+      "class": "",
+      "placeholder": "",
+      "visible": true
+    },
+    {
+      "type": "checkbox",
+      "id": "part_time",
+      "class": "",
+      "placeholder": "",
+      "visible": true
+    },
+    {
+      "type": "range",
+      "id": "stipend_filter",
+      "class": "slider",
+      "placeholder": "",
+      "visible": true
+    },
+    {
+      "type": "hidden",
+      "id": "start_date",
+      "class": "form-control option hasDatepicker",
+      "placeholder": "Choose date",
+      "visible": false
+    },
+    {
+      "type": "text",
+      "id": "",
+      "class": "chosen-search-input default",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "text",
+      "id": "",
+      "class": "chosen-search-input default",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "checkbox",
+      "id": "ppo",
+      "class": "",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "checkbox",
+      "id": "fast_response_input",
+      "class": "",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "checkbox",
+      "id": "early_applicant_input",
+      "class": "",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "checkbox",
+      "id": "internships_for_women_input",
+      "class": "",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "text",
+      "id": "keywords",
+      "class": "form-control pop-internship",
+      "placeholder": "e.g. Design, Mumbai, Infosys",
+      "visible": true
+    },
+    {
+      "type": "hidden",
+      "id": "isLastPage",
+      "class": "",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "hidden",
+      "id": "",
+      "class": "",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "hidden",
+      "id": "",
+      "class": "",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "hidden",
+      "id": "csrf",
+      "class": "",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "radio",
+      "id": "radio1",
+      "class": "",
+      "placeholder": "",
+      "visible": true
+    },
+    {
+      "type": "radio",
+      "id": "radio4",
+      "class": "",
+      "placeholder": "",
+      "visible": true
+    },
+    {
+      "type": "file",
+      "id": "custom_resume",
+      "class": "",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "hidden",
+      "id": "prefilled_custom_resume",
+      "class": "",
+      "placeholder": "",
+      "visible": false
+    },
+    {
+      "type": "submit",
+      "id": "submit",
+      "class": "btn btn-large ",
+      "placeholder": "",
+      "visible": true
+    },
+    {
+      "type": "checkbox",
+      "id": "bookmark_easy_apply_modal",
+      "class": "",
+      "placeholder": "",
+      "visible": false
+    }
+  ],
+  "textAreas": [
+    {
+      "id": "confirm_availability_textarea",
+      "class": "textarea form-control",
+      "placeholder": "Eg. I am available full-time in Pune for the next 6 months but will have exams for 15 days in June. ",
+      "visible": false
+    }
+  ]
+}

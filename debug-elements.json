@@ -1,0 +1,211 @@
+{
+  "buttons": [
+    {
+      "text": "Cancel",
+      "id": "",
+      "class": "btn btn-secondary modal_secondary_btn close_action"
+    },
+    {
+      "text": "Cancel",
+      "id": "",
+      "class": "btn btn-secondary modal_secondary_btn close_action"
+    },
+    {
+      "text": " ",
+      "id": "",
+      "class": "cross_btn"
+    },
+    {
+      "text": "\n                    \n                ",
+      "id": "search_mobile",
+      "class": "btn btn-primary  showGeneralToastOnMobile"
+    },
+    {
+      "text": " ",
+      "id": "",
+      "class": "cross_btn"
+    },
+    {
+      "text": "",
+      "id": "search",
+      "class": "btn btn-input btn-primary  showGeneralToastOnMobile   disabled"
+    },
+    {
+      "text": "Apply now",
+      "id": "",
+      "class": "apply-now-cta"
+    },
+    {
+      "text": "Work From Home Internships by Profile",
+      "id": "",
+      "class": "btn btn-link "
+    },
+    {
+      "text": "+7 more",
+      "id": "",
+      "class": "view-more-backlinks"
+    },
+    {
+      "text": "Work From Home Internships by Location",
+      "id": "",
+      "class": "btn btn-link collapsed"
+    },
+    {
+      "text": "+7 more",
+      "id": "",
+      "class": "view-more-backlinks"
+    },
+    {
+      "text": "Work From Home Jobs by Profile",
+      "id": "",
+      "class": "btn btn-link collapsed"
+    },
+    {
+      "text": "+7 more",
+      "id": "",
+      "class": "view-more-backlinks"
+    },
+    {
+      "text": "Jobs by Location",
+      "id": "",
+      "class": "btn btn-link collapsed"
+    },
+    {
+      "text": "+7 more",
+      "id": "",
+      "class": "view-more-backlinks"
+    },
+    {
+      "text": "Top Companies",
+      "id": "",
+      "class": "btn btn-link collapsed"
+    },
+    {
+      "text": "+7 more",
+      "id": "",
+      "class": "view-more-backlinks"
+    },
+    {
+      "text": "Frequently asked questions",
+      "id": "faqs_button_search",
+      "class": "faqs_button btn btn-secondary click_track"
+    },
+    {
+      "text": "Q. How do I search for internships in my preferred category/profile?",
+      "id": "",
+      "class": "btn btn-link collapsed "
+    },
+    {
+      "text": "Q. How can I apply for an internship on Internshala?",
+      "id": "",
+      "class": "btn btn-link collapsed "
+    },
+    {
+      "text": "Q. Do I need to pay to apply for an internship on Internshala?",
+      "id": "",
+      "class": "btn btn-link collapsed "
+    },
+    {
+      "text": "Q. What all internships are available on Internshala?",
+      "id": "",
+      "class": "btn btn-link collapsed "
+    },
+    {
+      "text": "Q. Are there any courses that offer a placement guarantee?",
+      "id": "",
+      "class": "btn btn-link collapsed "
+    },
+    {
+      "text": "Q. How do I get certified online?",
+      "id": "",
+      "class": "btn btn-link collapsed "
+    },
+    {
+      "text": "",
+      "id": "easy_apply_modal_close",
+      "class": "close"
+    },
+    {
+      "text": "Apply now",
+      "id": "continue_button",
+      "class": "btn btn-large "
+    },
+    {
+      "text": "",
+      "id": "",
+      "class": "frame-close"
+    },
+    {
+      "text": "Cancel",
+      "id": "easy_apply_modal_close_confirm_cancel",
+      "class": "btn btn-secondary btn-large button_cancel"
+    },
+    {
+      "text": "Exit",
+      "id": "easy_apply_modal_close_confirm_exit",
+      "class": "btn btn-primary btn-large button_exit"
+    },
+    {
+      "text": "",
+      "id": "app_qr_modal_close",
+      "class": "close"
+    }
+  ],
+  "modals": [
+    {
+      "id": "error_modal",
+      "class": "modal fade in internshala-modal",
+      "visible": false
+    },
+    {
+      "id": "success_modal",
+      "class": "modal fade in internshala-modal",
+      "visible": false
+    },
+    {
+      "id": "success_modal_dual_button",
+      "class": "modal fade in internshala-modal",
+      "visible": false
+    },
+    {
+      "id": "alert_modal",
+      "class": "modal fade in internshala-modal",
+      "visible": false
+    },
+    {
+      "id": "confirmation_modal",
+      "class": "modal fade in internshala-modal confirmation_modal",
+      "visible": false
+    },
+    {
+      "id": "employer_blocked_error_modal",
+      "class": "modal fade",
+      "visible": true
+    },
+    {
+      "id": "filtersModal",
+      "class": "modal",
+      "visible": false
+    },
+    {
+      "id": "easy_apply_modal",
+      "class": "modal show",
+      "visible": true
+    },
+    {
+      "id": "easy_apply_modal_close_confirm",
+      "class": "modal easy-apply",
+      "visible": false
+    },
+    {
+      "id": "similar_job_modal",
+      "class": "modal fade in internshala-modal",
+      "visible": false
+    },
+    {
+      "id": "app_qr_modal",
+      "class": "modal",
+      "visible": true
+    }
+  ]
+}
